@@ -1,0 +1,7 @@
+PyJWT
+flask
+pymongo
+redis
+flask_cors
+flask
+flask-login
