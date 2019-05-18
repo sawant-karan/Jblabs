@@ -5,3 +5,4 @@ redis
 flask_cors
 flask
 flask-login
+hashlib
