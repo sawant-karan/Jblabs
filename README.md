@@ -15,3 +15,7 @@ Step - 6: For Admin - Login use Admin login-id pass in the Login portal
 Step - 7: Once logged in into admin portal you will see users to be managed.
 
 Step - 8: Admin can add report and view all reports of the user, Disable/Enable and Delete User.
+
+PROJECT POWERED BY - NUCLETECH PVT. LTD.
+
+WEBSITE - https://www.nucletech.com
